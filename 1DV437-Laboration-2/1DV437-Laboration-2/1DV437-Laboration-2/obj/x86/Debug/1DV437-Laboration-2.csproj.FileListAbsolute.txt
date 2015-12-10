@@ -1,0 +1,7 @@
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\bin\x86\Debug\Content\ball.xnb
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\bin\x86\Debug\1DV437-Laboration-2.exe
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\bin\x86\Debug\1DV437-Laboration-2.pdb
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\obj\x86\Debug\1DV437-Laboration-2.csprojResolveAssemblyReference.cache
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\obj\x86\Debug\1DV437-Laboration-2.exe
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\1DV437-Laboration-2\1DV437-Laboration-2\1DV437-Laboration-2\obj\x86\Debug\1DV437-Laboration-2.pdb
