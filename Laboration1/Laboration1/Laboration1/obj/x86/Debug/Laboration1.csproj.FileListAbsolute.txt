@@ -1,0 +1,7 @@
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\bin\x86\Debug\Laboration1.exe
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\bin\x86\Debug\Laboration1.pdb
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\obj\x86\Debug\Laboration1.csprojResolveAssemblyReference.cache
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\obj\x86\Debug\Laboration1.exe
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\obj\x86\Debug\Laboration1.pdb
+C:\Users\AndersRobelius\Documents\Visual Studio 2012\Projects\Laboration1\Laboration1\Laboration1\bin\x86\Debug\Content\ball.xnb
